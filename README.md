@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Naman Khandelwal</h1>
-<h3 align="center">A passionate Web Developer, UI/UX Designer and Graphic Designer from India</h3>
+<h3 align="center">A passionate Frontend Developer and UI/UX Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman7240&label=Profile%20views&color=0e75b6&style=flat" alt="naman7240" /> </p>
 
-- 🌱 I’m currently learning **UI/UX and Graphic Design**
+- 🌱 I’m currently learning **both Frontend and Backend skills**
 
-- 💬 Ask me about **Figma,Graphic Design and Web Development**
+- 💬 Ask me about **Figma and Web Development**
 
 - 📫 How to reach me **namankhandelwal136@gmail.com**
 
-- ⚡ **I think I am consistent,punctual and diligent**
+- ⚡ **I think I am consistent, punctual and diligent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
